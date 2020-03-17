@@ -85,4 +85,5 @@ pygmentsuseclasses         = true
   # analytics
   googleAnalytics          = "your-google-analytic-id"
     
-    
+  matomo_uri               = "your-matomo-uri"
+  matomo_siteid            = "your-matomo-siteid"
